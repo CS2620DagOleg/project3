@@ -1,6 +1,6 @@
 # Distributed System Simulation
 
-This repository contains a simulation of a small, asynchronous distributed system with logical clocks.
+Our repo contains a simulation of a small, asynchronous distributed system with logical clocks.
 
 ## Overview
 
