@@ -201,9 +201,9 @@ class VirtualMachine:
         In each cycle, the machine first checks for any incoming messages. If a message
         is processed, the logical clock is updated. If no message is present, the machine
         randomly chooses to perform one of several events:
-          - Send a message to a specific peer.
-          - Send a message to all peers.
-          - Perform an internal event (simply incrementing the logical clock).
+            - Send a message to a specific peer.
+            - Send a message to all peers.
+            - Perform an internal event (simply incrementing the logical clock).
         
         The loop respects the machine's clock rate by sleeping for the appropriate duration.
         '''
