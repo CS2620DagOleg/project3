@@ -9,7 +9,7 @@ processes = []
 for machine_id in machines:
     p = subprocess.Popen(["python", "run_machine.py", machine_id])
     processes.append(p)
-    time.sleep(0.5)  # Small delay to avoid race conditions
+    time.sleep(0.5)  
 
 try:
     for p in processes:
