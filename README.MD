@@ -107,7 +107,7 @@ python -m coverage report
 
 ```
 
-These commands will run the test and generate a coverage report. We are standing at 89 percent coverage report currently. 
+These commands will run the test and generate a coverage report. We are standing at 89 percent coverage report currently. Despite the warnings, the final OK message confirms that the virtual machines successfully ran, exchanged messages, and updated their logical clocks correctly.
 
 ## 6. Design Decisions and Considerations
 
