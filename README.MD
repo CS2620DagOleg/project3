@@ -95,7 +95,16 @@ This repository implements a simulation of an asynchronous distributed system th
 A comprehensive suite of unit tests is included to validate the functionality of the simulation. To run the tests in verbose mode, use:
 
 ```bash
-python -m unittest discover tests -v
+pip install coverage
+```
+
+```bash
+python -m coverage run -m unittest testrun.py
+```
+And finally to generate a coverage report run
+```bash
+python -m coverage report
+
 ```
 
 This command executes all tests in the `tests` directory and provides detailed output on each test’s status.
