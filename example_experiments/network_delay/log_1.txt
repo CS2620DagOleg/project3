@@ -1,0 +1,349 @@
+Clock rate: 4 ticks per second
+Machine 1 log started at 2025-03-05 20:03:57.393725
+Clock rate: 5 ticks per second
+2025-03-05 20:03:59 | INTERNAL | Clock: 1 | Internal event
+2025-03-05 20:03:59 | INTERNAL | Clock: 2 | Internal event
+2025-03-05 20:04:00 | SEND | Clock: 3 | Sent to machine 2 with delay 0.21s
+2025-03-05 20:04:00 | SEND | Clock: 4 | Sent to machine 3 with delay 0.16s
+2025-03-05 20:04:00 | INTERNAL | Clock: 5 | Internal event
+2025-03-05 20:04:00 | INTERNAL | Clock: 6 | Internal event
+2025-03-05 20:04:00 | INTERNAL | Clock: 7 | Internal event
+2025-03-05 20:04:00 | INTERNAL | Clock: 8 | Internal event
+2025-03-05 20:04:01 | SEND | Clock: 9 | Sent to machine 3 with delay 0.18s
+2025-03-05 20:04:01 | INTERNAL | Clock: 10 | Internal event
+2025-03-05 20:04:01 | INTERNAL | Clock: 11 | Internal event
+2025-03-05 20:04:01 | INTERNAL | Clock: 12 | Internal event
+2025-03-05 20:04:01 | INTERNAL | Clock: 13 | Internal event
+2025-03-05 20:04:02 | INTERNAL | Clock: 14 | Internal event
+2025-03-05 20:04:02 | RECEIVE | Clock: 15 | Message clock: 12, Queue length: 0
+2025-03-05 20:04:02 | INTERNAL | Clock: 16 | Internal event
+2025-03-05 20:04:02 | INTERNAL | Clock: 17 | Internal event
+2025-03-05 20:04:02 | INTERNAL | Clock: 18 | Internal event
+2025-03-05 20:04:03 | INTERNAL | Clock: 19 | Internal event
+2025-03-05 20:04:03 | SEND | Clock: 20 | Sent to machine 2 with delay 0.15s
+2025-03-05 20:04:03 | SEND | Clock: 21 | Sent to machine 3 with delay 0.11s
+2025-03-05 20:04:03 | INTERNAL | Clock: 22 | Internal event
+2025-03-05 20:04:03 | RECEIVE | Clock: 23 | Message clock: 16, Queue length: 0
+2025-03-05 20:04:03 | INTERNAL | Clock: 24 | Internal event
+2025-03-05 20:04:04 | INTERNAL | Clock: 25 | Internal event
+2025-03-05 20:04:04 | INTERNAL | Clock: 26 | Internal event
+2025-03-05 20:04:04 | RECEIVE | Clock: 27 | Message clock: 23, Queue length: 0
+2025-03-05 20:04:04 | RECEIVE | Clock: 28 | Message clock: 23, Queue length: 0
+2025-03-05 20:04:04 | RECEIVE | Clock: 29 | Message clock: 25, Queue length: 0
+2025-03-05 20:04:05 | INTERNAL | Clock: 30 | Internal event
+2025-03-05 20:04:05 | SEND | Clock: 31 | Sent to machine 2 with delay 0.40s
+2025-03-05 20:04:06 | SEND | Clock: 32 | Sent to machine 3 with delay 0.39s
+2025-03-05 20:04:06 | INTERNAL | Clock: 33 | Internal event
+2025-03-05 20:04:06 | INTERNAL | Clock: 34 | Internal event
+2025-03-05 20:04:07 | SEND | Clock: 35 | Sent to machine 2 with delay 0.44s
+2025-03-05 20:04:07 | SEND | Clock: 36 | Sent to machine 3 with delay 0.14s
+2025-03-05 20:04:07 | RECEIVE | Clock: 37 | Message clock: 34, Queue length: 0
+2025-03-05 20:04:07 | INTERNAL | Clock: 38 | Internal event
+2025-03-05 20:04:07 | SEND | Clock: 39 | Sent to machine 3 with delay 0.13s
+2025-03-05 20:04:07 | INTERNAL | Clock: 40 | Internal event
+2025-03-05 20:04:08 | SEND | Clock: 41 | Sent to machine 2 with delay 0.11s
+2025-03-05 20:04:08 | INTERNAL | Clock: 42 | Internal event
+2025-03-05 20:04:08 | SEND | Clock: 43 | Sent to machine 2 with delay 0.18s
+2025-03-05 20:04:08 | INTERNAL | Clock: 44 | Internal event
+2025-03-05 20:04:08 | INTERNAL | Clock: 45 | Internal event
+2025-03-05 20:04:09 | INTERNAL | Clock: 46 | Internal event
+2025-03-05 20:04:09 | SEND | Clock: 47 | Sent to machine 3 with delay 0.17s
+2025-03-05 20:04:09 | INTERNAL | Clock: 48 | Internal event
+2025-03-05 20:04:09 | INTERNAL | Clock: 49 | Internal event
+2025-03-05 20:04:10 | SEND | Clock: 50 | Sent to machine 3 with delay 0.16s
+2025-03-05 20:04:10 | INTERNAL | Clock: 51 | Internal event
+2025-03-05 20:04:10 | SEND | Clock: 52 | Sent to machine 2 with delay 0.20s
+2025-03-05 20:04:10 | SEND | Clock: 53 | Sent to machine 3 with delay 0.11s
+2025-03-05 20:04:10 | SEND | Clock: 54 | Sent to machine 2 with delay 0.34s
+2025-03-05 20:04:11 | SEND | Clock: 55 | Sent to machine 3 with delay 0.32s
+2025-03-05 20:04:11 | RECEIVE | Clock: 56 | Message clock: 52, Queue length: 0
+2025-03-05 20:04:11 | SEND | Clock: 57 | Sent to machine 2 with delay 0.15s
+2025-03-05 20:04:11 | INTERNAL | Clock: 58 | Internal event
+2025-03-05 20:04:11 | INTERNAL | Clock: 59 | Internal event
+2025-03-05 20:04:12 | INTERNAL | Clock: 60 | Internal event
+2025-03-05 20:04:12 | INTERNAL | Clock: 61 | Internal event
+2025-03-05 20:04:12 | INTERNAL | Clock: 62 | Internal event
+2025-03-05 20:04:12 | INTERNAL | Clock: 63 | Internal event
+2025-03-05 20:04:12 | INTERNAL | Clock: 64 | Internal event
+2025-03-05 20:04:13 | INTERNAL | Clock: 65 | Internal event
+2025-03-05 20:04:13 | RECEIVE | Clock: 66 | Message clock: 60, Queue length: 0
+2025-03-05 20:04:13 | SEND | Clock: 67 | Sent to machine 3 with delay 0.14s
+2025-03-05 20:04:13 | INTERNAL | Clock: 68 | Internal event
+2025-03-05 20:04:13 | INTERNAL | Clock: 69 | Internal event
+2025-03-05 20:04:14 | INTERNAL | Clock: 70 | Internal event
+2025-03-05 20:04:14 | INTERNAL | Clock: 71 | Internal event
+2025-03-05 20:04:14 | INTERNAL | Clock: 72 | Internal event
+2025-03-05 20:04:14 | INTERNAL | Clock: 73 | Internal event
+2025-03-05 20:04:14 | INTERNAL | Clock: 74 | Internal event
+2025-03-05 20:04:15 | INTERNAL | Clock: 75 | Internal event
+2025-03-05 20:04:15 | SEND | Clock: 76 | Sent to machine 2 with delay 0.10s
+2025-03-05 20:04:15 | INTERNAL | Clock: 77 | Internal event
+2025-03-05 20:04:15 | INTERNAL | Clock: 78 | Internal event
+2025-03-05 20:04:15 | INTERNAL | Clock: 79 | Internal event
+2025-03-05 20:04:16 | INTERNAL | Clock: 80 | Internal event
+2025-03-05 20:04:16 | SEND | Clock: 81 | Sent to machine 3 with delay 0.10s
+2025-03-05 20:04:16 | SEND | Clock: 82 | Sent to machine 3 with delay 0.28s
+2025-03-05 20:04:16 | INTERNAL | Clock: 83 | Internal event
+2025-03-05 20:04:17 | SEND | Clock: 84 | Sent to machine 3 with delay 0.49s
+2025-03-05 20:04:17 | RECEIVE | Clock: 85 | Message clock: 83, Queue length: 0
+2025-03-05 20:04:17 | INTERNAL | Clock: 86 | Internal event
+2025-03-05 20:04:18 | SEND | Clock: 87 | Sent to machine 2 with delay 0.15s
+2025-03-05 20:04:18 | INTERNAL | Clock: 88 | Internal event
+2025-03-05 20:04:18 | INTERNAL | Clock: 89 | Internal event
+2025-03-05 20:04:18 | INTERNAL | Clock: 90 | Internal event
+2025-03-05 20:04:18 | INTERNAL | Clock: 91 | Internal event
+2025-03-05 20:04:18 | INTERNAL | Clock: 92 | Internal event
+2025-03-05 20:04:19 | INTERNAL | Clock: 93 | Internal event
+2025-03-05 20:04:19 | SEND | Clock: 94 | Sent to machine 3 with delay 0.40s
+2025-03-05 20:04:19 | INTERNAL | Clock: 95 | Internal event
+2025-03-05 20:04:19 | RECEIVE | Clock: 96 | Message clock: 91, Queue length: 0
+2025-03-05 20:04:20 | INTERNAL | Clock: 97 | Internal event
+2025-03-05 20:04:20 | INTERNAL | Clock: 98 | Internal event
+2025-03-05 20:04:20 | INTERNAL | Clock: 99 | Internal event
+2025-03-05 20:04:20 | RECEIVE | Clock: 100 | Message clock: 97, Queue length: 0
+2025-03-05 20:04:21 | RECEIVE | Clock: 101 | Message clock: 93, Queue length: 0
+2025-03-05 20:04:21 | INTERNAL | Clock: 102 | Internal event
+2025-03-05 20:04:21 | SEND | Clock: 103 | Sent to machine 2 with delay 0.26s
+2025-03-05 20:04:22 | SEND | Clock: 104 | Sent to machine 3 with delay 0.32s
+2025-03-05 20:04:22 | SEND | Clock: 105 | Sent to machine 2 with delay 0.44s
+2025-03-05 20:04:22 | RECEIVE | Clock: 106 | Message clock: 102, Queue length: 0
+2025-03-05 20:04:22 | INTERNAL | Clock: 107 | Internal event
+2025-03-05 20:04:22 | INTERNAL | Clock: 108 | Internal event
+2025-03-05 20:04:23 | INTERNAL | Clock: 109 | Internal event
+2025-03-05 20:04:23 | SEND | Clock: 110 | Sent to machine 3 with delay 0.34s
+2025-03-05 20:04:23 | INTERNAL | Clock: 111 | Internal event
+2025-03-05 20:04:23 | SEND | Clock: 112 | Sent to machine 3 with delay 0.13s
+2025-03-05 20:04:24 | INTERNAL | Clock: 113 | Internal event
+2025-03-05 20:04:24 | INTERNAL | Clock: 114 | Internal event
+2025-03-05 20:04:24 | INTERNAL | Clock: 115 | Internal event
+2025-03-05 20:04:24 | INTERNAL | Clock: 116 | Internal event
+2025-03-05 20:04:24 | INTERNAL | Clock: 117 | Internal event
+2025-03-05 20:04:25 | INTERNAL | Clock: 118 | Internal event
+2025-03-05 20:04:25 | INTERNAL | Clock: 119 | Internal event
+2025-03-05 20:04:25 | INTERNAL | Clock: 120 | Internal event
+2025-03-05 20:04:25 | INTERNAL | Clock: 121 | Internal event
+2025-03-05 20:04:25 | INTERNAL | Clock: 122 | Internal event
+2025-03-05 20:04:26 | INTERNAL | Clock: 123 | Internal event
+2025-03-05 20:04:26 | INTERNAL | Clock: 124 | Internal event
+2025-03-05 20:04:26 | RECEIVE | Clock: 125 | Message clock: 118, Queue length: 0
+2025-03-05 20:04:26 | INTERNAL | Clock: 126 | Internal event
+2025-03-05 20:04:26 | RECEIVE | Clock: 127 | Message clock: 117, Queue length: 0
+2025-03-05 20:04:27 | INTERNAL | Clock: 128 | Internal event
+2025-03-05 20:04:27 | RECEIVE | Clock: 129 | Message clock: 120, Queue length: 0
+2025-03-05 20:04:27 | INTERNAL | Clock: 130 | Internal event
+2025-03-05 20:04:28 | SEND | Clock: 131 | Sent to machine 2 with delay 0.36s
+2025-03-05 20:04:28 | SEND | Clock: 132 | Sent to machine 3 with delay 0.43s
+2025-03-05 20:04:28 | RECEIVE | Clock: 133 | Message clock: 122, Queue length: 1
+2025-03-05 20:04:28 | RECEIVE | Clock: 134 | Message clock: 122, Queue length: 0
+2025-03-05 20:04:28 | INTERNAL | Clock: 135 | Internal event
+2025-03-05 20:04:29 | INTERNAL | Clock: 136 | Internal event
+2025-03-05 20:04:29 | INTERNAL | Clock: 137 | Internal event
+2025-03-05 20:04:29 | INTERNAL | Clock: 138 | Internal event
+2025-03-05 20:04:30 | SEND | Clock: 139 | Sent to machine 2 with delay 0.49s
+2025-03-05 20:04:30 | INTERNAL | Clock: 140 | Internal event
+2025-03-05 20:04:30 | RECEIVE | Clock: 141 | Message clock: 137, Queue length: 0
+2025-03-05 20:04:30 | INTERNAL | Clock: 142 | Internal event
+2025-03-05 20:04:30 | SEND | Clock: 143 | Sent to machine 2 with delay 0.16s
+2025-03-05 20:04:31 | SEND | Clock: 144 | Sent to machine 3 with delay 0.22s
+2025-03-05 20:04:31 | RECEIVE | Clock: 145 | Message clock: 139, Queue length: 0
+2025-03-05 20:04:31 | INTERNAL | Clock: 146 | Internal event
+2025-03-05 20:04:31 | INTERNAL | Clock: 147 | Internal event
+2025-03-05 20:04:32 | SEND | Clock: 148 | Sent to machine 3 with delay 0.34s
+2025-03-05 20:04:32 | INTERNAL | Clock: 149 | Internal event
+2025-03-05 20:04:32 | RECEIVE | Clock: 150 | Message clock: 146, Queue length: 0
+2025-03-05 20:04:32 | SEND | Clock: 151 | Sent to machine 2 with delay 0.21s
+2025-03-05 20:04:33 | SEND | Clock: 152 | Sent to machine 3 with delay 0.41s
+2025-03-05 20:04:33 | SEND | Clock: 153 | Sent to machine 2 with delay 0.27s
+2025-03-05 20:04:33 | SEND | Clock: 154 | Sent to machine 3 with delay 0.22s
+2025-03-05 20:04:33 | SEND | Clock: 155 | Sent to machine 2 with delay 0.15s
+2025-03-05 20:04:34 | SEND | Clock: 156 | Sent to machine 2 with delay 0.45s
+2025-03-05 20:04:34 | SEND | Clock: 157 | Sent to machine 3 with delay 0.18s
+2025-03-05 20:04:34 | INTERNAL | Clock: 158 | Internal event
+2025-03-05 20:04:35 | SEND | Clock: 159 | Sent to machine 3 with delay 0.32s
+2025-03-05 20:04:35 | INTERNAL | Clock: 160 | Internal event
+2025-03-05 20:04:35 | SEND | Clock: 161 | Sent to machine 2 with delay 0.42s
+2025-03-05 20:04:36 | SEND | Clock: 162 | Sent to machine 2 with delay 0.38s
+2025-03-05 20:04:36 | INTERNAL | Clock: 163 | Internal event
+2025-03-05 20:04:36 | INTERNAL | Clock: 164 | Internal event
+2025-03-05 20:04:36 | SEND | Clock: 165 | Sent to machine 3 with delay 0.28s
+2025-03-05 20:04:36 | INTERNAL | Clock: 166 | Internal event
+2025-03-05 20:04:36 | INTERNAL | Clock: 167 | Internal event
+2025-03-05 20:04:37 | RECEIVE | Clock: 168 | Message clock: 164, Queue length: 0
+2025-03-05 20:04:37 | INTERNAL | Clock: 169 | Internal event
+2025-03-05 20:04:37 | INTERNAL | Clock: 170 | Internal event
+2025-03-05 20:04:37 | INTERNAL | Clock: 171 | Internal event
+2025-03-05 20:04:37 | INTERNAL | Clock: 172 | Internal event
+2025-03-05 20:04:38 | INTERNAL | Clock: 173 | Internal event
+2025-03-05 20:04:38 | INTERNAL | Clock: 174 | Internal event
+2025-03-05 20:04:38 | INTERNAL | Clock: 175 | Internal event
+2025-03-05 20:04:38 | INTERNAL | Clock: 176 | Internal event
+2025-03-05 20:04:39 | RECEIVE | Clock: 177 | Message clock: 167, Queue length: 0
+2025-03-05 20:04:39 | INTERNAL | Clock: 178 | Internal event
+2025-03-05 20:04:39 | INTERNAL | Clock: 179 | Internal event
+2025-03-05 20:04:39 | INTERNAL | Clock: 180 | Internal event
+2025-03-05 20:04:39 | RECEIVE | Clock: 181 | Message clock: 169, Queue length: 0
+2025-03-05 20:04:40 | SEND | Clock: 182 | Sent to machine 3 with delay 0.28s
+2025-03-05 20:04:40 | RECEIVE | Clock: 183 | Message clock: 174, Queue length: 0
+2025-03-05 20:04:40 | SEND | Clock: 184 | Sent to machine 2 with delay 0.15s
+2025-03-05 20:04:40 | INTERNAL | Clock: 185 | Internal event
+2025-03-05 20:04:40 | INTERNAL | Clock: 186 | Internal event
+2025-03-05 20:04:41 | INTERNAL | Clock: 187 | Internal event
+2025-03-05 20:04:41 | SEND | Clock: 188 | Sent to machine 3 with delay 0.26s
+2025-03-05 20:04:41 | INTERNAL | Clock: 189 | Internal event
+2025-03-05 20:04:42 | SEND | Clock: 190 | Sent to machine 3 with delay 0.49s
+2025-03-05 20:04:42 | SEND | Clock: 191 | Sent to machine 2 with delay 0.36s
+2025-03-05 20:04:43 | SEND | Clock: 192 | Sent to machine 3 with delay 0.46s
+2025-03-05 20:04:43 | RECEIVE | Clock: 193 | Message clock: 190, Queue length: 2
+2025-03-05 20:04:43 | RECEIVE | Clock: 194 | Message clock: 187, Queue length: 1
+2025-03-05 20:04:43 | RECEIVE | Clock: 195 | Message clock: 192, Queue length: 0
+2025-03-05 20:04:43 | INTERNAL | Clock: 196 | Internal event
+2025-03-05 20:04:43 | INTERNAL | Clock: 197 | Internal event
+2025-03-05 20:04:44 | SEND | Clock: 198 | Sent to machine 2 with delay 0.17s
+2025-03-05 20:04:44 | SEND | Clock: 199 | Sent to machine 3 with delay 0.17s
+2025-03-05 20:04:44 | INTERNAL | Clock: 200 | Internal event
+2025-03-05 20:04:44 | RECEIVE | Clock: 201 | Message clock: 198, Queue length: 0
+2025-03-05 20:04:44 | INTERNAL | Clock: 202 | Internal event
+2025-03-05 20:04:45 | SEND | Clock: 203 | Sent to machine 2 with delay 0.19s
+2025-03-05 20:04:45 | SEND | Clock: 204 | Sent to machine 3 with delay 0.19s
+2025-03-05 20:04:46 | SEND | Clock: 205 | Sent to machine 2 with delay 0.49s
+2025-03-05 20:04:46 | INTERNAL | Clock: 206 | Internal event
+2025-03-05 20:04:46 | INTERNAL | Clock: 207 | Internal event
+2025-03-05 20:04:46 | INTERNAL | Clock: 208 | Internal event
+2025-03-05 20:04:46 | INTERNAL | Clock: 209 | Internal event
+2025-03-05 20:04:46 | INTERNAL | Clock: 210 | Internal event
+2025-03-05 20:04:47 | RECEIVE | Clock: 211 | Message clock: 208, Queue length: 0
+2025-03-05 20:04:47 | INTERNAL | Clock: 212 | Internal event
+2025-03-05 20:04:47 | SEND | Clock: 213 | Sent to machine 2 with delay 0.44s
+2025-03-05 20:04:47 | INTERNAL | Clock: 214 | Internal event
+2025-03-05 20:04:48 | RECEIVE | Clock: 215 | Message clock: 211, Queue length: 0
+2025-03-05 20:04:48 | RECEIVE | Clock: 216 | Message clock: 212, Queue length: 0
+2025-03-05 20:04:48 | INTERNAL | Clock: 217 | Internal event
+2025-03-05 20:04:48 | INTERNAL | Clock: 218 | Internal event
+2025-03-05 20:04:48 | RECEIVE | Clock: 219 | Message clock: 214, Queue length: 0
+2025-03-05 20:04:49 | SEND | Clock: 220 | Sent to machine 2 with delay 0.28s
+2025-03-05 20:04:49 | SEND | Clock: 221 | Sent to machine 3 with delay 0.20s
+2025-03-05 20:04:49 | INTERNAL | Clock: 222 | Internal event
+2025-03-05 20:04:49 | INTERNAL | Clock: 223 | Internal event
+2025-03-05 20:04:50 | INTERNAL | Clock: 224 | Internal event
+2025-03-05 20:04:50 | SEND | Clock: 225 | Sent to machine 2 with delay 0.49s
+2025-03-05 20:04:50 | SEND | Clock: 226 | Sent to machine 3 with delay 0.11s
+2025-03-05 20:04:50 | RECEIVE | Clock: 227 | Message clock: 223, Queue length: 0
+2025-03-05 20:04:51 | SEND | Clock: 228 | Sent to machine 2 with delay 0.48s
+2025-03-05 20:04:51 | INTERNAL | Clock: 229 | Internal event
+2025-03-05 20:04:51 | INTERNAL | Clock: 230 | Internal event
+2025-03-05 20:04:51 | INTERNAL | Clock: 231 | Internal event
+2025-03-05 20:04:52 | INTERNAL | Clock: 232 | Internal event
+2025-03-05 20:04:52 | SEND | Clock: 233 | Sent to machine 2 with delay 0.15s
+2025-03-05 20:04:52 | RECEIVE | Clock: 234 | Message clock: 230, Queue length: 0
+2025-03-05 20:04:52 | INTERNAL | Clock: 235 | Internal event
+2025-03-05 20:04:52 | RECEIVE | Clock: 236 | Message clock: 231, Queue length: 0
+2025-03-05 20:04:53 | INTERNAL | Clock: 237 | Internal event
+2025-03-05 20:04:53 | INTERNAL | Clock: 238 | Internal event
+2025-03-05 20:04:53 | SEND | Clock: 239 | Sent to machine 3 with delay 0.27s
+2025-03-05 20:04:53 | SEND | Clock: 240 | Sent to machine 2 with delay 0.15s
+2025-03-05 20:04:54 | INTERNAL | Clock: 241 | Internal event
+2025-03-05 20:04:54 | INTERNAL | Clock: 242 | Internal event
+2025-03-05 20:04:54 | INTERNAL | Clock: 243 | Internal event
+2025-03-05 20:04:54 | INTERNAL | Clock: 244 | Internal event
+2025-03-05 20:04:54 | RECEIVE | Clock: 245 | Message clock: 241, Queue length: 0
+2025-03-05 20:04:55 | INTERNAL | Clock: 246 | Internal event
+2025-03-05 20:04:55 | RECEIVE | Clock: 247 | Message clock: 242, Queue length: 0
+2025-03-05 20:04:55 | INTERNAL | Clock: 248 | Internal event
+2025-03-05 20:04:55 | INTERNAL | Clock: 249 | Internal event
+2025-03-05 20:04:56 | SEND | Clock: 250 | Sent to machine 2 with delay 0.37s
+2025-03-05 20:04:56 | INTERNAL | Clock: 251 | Internal event
+2025-03-05 20:04:56 | INTERNAL | Clock: 252 | Internal event
+2025-03-05 20:04:57 | SEND | Clock: 253 | Sent to machine 2 with delay 0.36s
+2025-03-05 20:04:57 | SEND | Clock: 254 | Sent to machine 3 with delay 0.30s
+2025-03-05 20:04:57 | RECEIVE | Clock: 255 | Message clock: 248, Queue length: 0
+2025-03-05 20:04:57 | INTERNAL | Clock: 256 | Internal event
+2025-03-05 20:04:57 | INTERNAL | Clock: 257 | Internal event
+2025-03-05 20:04:58 | SEND | Clock: 258 | Sent to machine 2 with delay 0.30s
+2025-03-05 20:04:58 | INTERNAL | Clock: 259 | Internal event
+2025-03-05 20:04:58 | RECEIVE | Clock: 260 | Message clock: 256, Queue length: 0
+2025-03-05 20:04:58 | SEND | Clock: 261 | Sent to machine 2 with delay 0.13s
+2025-03-05 20:04:58 | SEND | Clock: 262 | Sent to machine 3 with delay 0.18s
+2025-03-05 20:04:59 | SEND | Clock: 263 | Sent to machine 2 with delay 0.34s
+2025-03-05 20:04:59 | SEND | Clock: 264 | Sent to machine 3 with delay 0.11s
+2025-03-05 20:04:59 | RECEIVE | Clock: 265 | Message clock: 258, Queue length: 0
+2025-03-05 20:04:59 | INTERNAL | Clock: 266 | Internal event
+2025-03-05 20:04:59 | SEND | Clock: 267 | Sent to machine 2 with delay 0.16s
+2025-03-05 20:05:00 | SEND | Clock: 268 | Sent to machine 3 with delay 0.21s
+2025-03-05 20:05:00 | INTERNAL | Clock: 269 | Internal event
+2025-03-05 20:05:00 | INTERNAL | Clock: 270 | Internal event
+2025-03-05 20:05:00 | INTERNAL | Clock: 271 | Internal event
+2025-03-05 20:05:01 | SEND | Clock: 272 | Sent to machine 2 with delay 0.44s
+2025-03-05 20:05:01 | SEND | Clock: 273 | Sent to machine 3 with delay 0.29s
+2025-03-05 20:05:01 | SEND | Clock: 274 | Sent to machine 2 with delay 0.17s
+2025-03-05 20:05:01 | INTERNAL | Clock: 275 | Internal event
+2025-03-05 20:05:01 | INTERNAL | Clock: 276 | Internal event
+2025-03-05 20:05:02 | INTERNAL | Clock: 277 | Internal event
+2025-03-05 20:05:02 | SEND | Clock: 278 | Sent to machine 3 with delay 0.22s
+2025-03-05 20:05:02 | INTERNAL | Clock: 279 | Internal event
+2025-03-05 20:05:03 | SEND | Clock: 280 | Sent to machine 2 with delay 0.23s
+2025-03-05 20:05:03 | SEND | Clock: 281 | Sent to machine 2 with delay 0.31s
+2025-03-05 20:05:03 | SEND | Clock: 282 | Sent to machine 3 with delay 0.39s
+2025-03-05 20:05:03 | RECEIVE | Clock: 283 | Message clock: 277, Queue length: 1
+2025-03-05 20:05:03 | RECEIVE | Clock: 284 | Message clock: 281, Queue length: 0
+2025-03-05 20:05:04 | INTERNAL | Clock: 285 | Internal event
+2025-03-05 20:05:04 | INTERNAL | Clock: 286 | Internal event
+2025-03-05 20:05:04 | INTERNAL | Clock: 287 | Internal event
+2025-03-05 20:05:04 | INTERNAL | Clock: 288 | Internal event
+2025-03-05 20:05:04 | RECEIVE | Clock: 289 | Message clock: 283, Queue length: 0
+2025-03-05 20:05:05 | INTERNAL | Clock: 290 | Internal event
+2025-03-05 20:05:05 | SEND | Clock: 291 | Sent to machine 2 with delay 0.30s
+2025-03-05 20:05:05 | SEND | Clock: 292 | Sent to machine 3 with delay 0.27s
+2025-03-05 20:05:05 | RECEIVE | Clock: 293 | Message clock: 287, Queue length: 0
+2025-03-05 20:05:06 | INTERNAL | Clock: 294 | Internal event
+2025-03-05 20:05:06 | INTERNAL | Clock: 295 | Internal event
+2025-03-05 20:05:06 | SEND | Clock: 296 | Sent to machine 2 with delay 0.11s
+2025-03-05 20:05:06 | SEND | Clock: 297 | Sent to machine 3 with delay 0.10s
+2025-03-05 20:05:06 | INTERNAL | Clock: 298 | Internal event
+2025-03-05 20:05:06 | INTERNAL | Clock: 299 | Internal event
+2025-03-05 20:05:07 | INTERNAL | Clock: 300 | Internal event
+2025-03-05 20:05:07 | INTERNAL | Clock: 301 | Internal event
+2025-03-05 20:05:07 | INTERNAL | Clock: 302 | Internal event
+2025-03-05 20:05:08 | SEND | Clock: 303 | Sent to machine 3 with delay 0.47s
+2025-03-05 20:05:08 | RECEIVE | Clock: 304 | Message clock: 298, Queue length: 0
+2025-03-05 20:05:08 | INTERNAL | Clock: 305 | Internal event
+2025-03-05 20:05:08 | INTERNAL | Clock: 306 | Internal event
+2025-03-05 20:05:08 | INTERNAL | Clock: 307 | Internal event
+2025-03-05 20:05:09 | INTERNAL | Clock: 308 | Internal event
+2025-03-05 20:05:09 | SEND | Clock: 309 | Sent to machine 3 with delay 0.16s
+2025-03-05 20:05:09 | INTERNAL | Clock: 310 | Internal event
+2025-03-05 20:05:09 | INTERNAL | Clock: 311 | Internal event
+2025-03-05 20:05:09 | INTERNAL | Clock: 312 | Internal event
+2025-03-05 20:05:10 | SEND | Clock: 313 | Sent to machine 2 with delay 0.37s
+2025-03-05 20:05:10 | RECEIVE | Clock: 314 | Message clock: 305, Queue length: 0
+2025-03-05 20:05:10 | RECEIVE | Clock: 315 | Message clock: 307,ç Queue length: 0
+2025-03-05 20:05:11 | SEND | Clock: 316 | Sent to machine 2 with delay 0.20s
+2025-03-05 20:05:11 | INTERNAL | Clock: 317 | Internal event
+2025-03-05 20:05:11 | SEND | Clock: 318 | Sent to machine 2 with delay 0.13s
+2025-03-05 20:05:11 | SEND | Clock: 319 | Sent to machine 3 with delay 0.50s
+2025-03-05 20:05:11 | RECEIVE | Clock: 320 | Message clock: 316, Queue length: 0
+2025-03-05 20:05:12 | INTERNAL | Clock: 321 | Internal event
+2025-03-05 20:05:12 | INTERNAL | Clock: 322 | Internal event
+2025-03-05 20:05:12 | SEND | Clock: 323 | Sent to machine 2 with delay 0.12s
+2025-03-05 20:05:12 | INTERNAL | Clock: 324 | Internal event
+2025-03-05 20:05:12 | INTERNAL | Clock: 325 | Internal event
+2025-03-05 20:05:13 | INTERNAL | Clock: 326 | Internal event
+2025-03-05 20:05:13 | SEND | Clock: 327 | Sent to machine 2 with delay 0.36s
+2025-03-05 20:05:13 | INTERNAL | Clock: 328 | Internal event
+2025-03-05 20:05:13 | INTERNAL | Clock: 329 | Internal event
+2025-03-05 20:05:14 | INTERNAL | Clock: 330 | Internal event
+2025-03-05 20:05:14 | RECEIVE | Clock: 331 | Message clock: 325, Queue length: 0
+2025-03-05 20:05:14 | INTERNAL | Clock: 332 | Internal event
+2025-03-05 20:05:14 | RECEIVE | Clock: 333 | Message clock: 327, Queue length: 0
+2025-03-05 20:05:15 | SEND | Clock: 334 | Sent to machine 2 with delay 0.48s
+2025-03-05 20:05:15 | SEND | Clock: 335 | Sent to machine 3 with delay 0.40s
+2025-03-05 20:05:15 | INTERNAL | Clock: 336 | Internal event
+2025-03-05 20:05:16 | RECEIVE | Clock: 337 | Message clock: 331, Queue length: 0
+2025-03-05 20:05:16 | INTERNAL | Clock: 338 | Internal event
+2025-03-05 20:05:16 | INTERNAL | Clock: 339 | Internal event
+2025-03-05 20:05:16 | INTERNAL | Clock: 340 | Internal event
+2025-03-05 20:05:16 | INTERNAL | Clock: 341 | Internal event
+2025-03-05 20:05:17 | INTERNAL | Clock: 342 | Internal event
+2025-03-05 20:05:17 | INTERNAL | Clock: 343 | Internal event
+2025-03-05 20:05:17 | RECEIVE | Clock: 344 | Message clock: 339, Queue length: 0
+2025-03-05 20:05:17 | INTERNAL | Clock: 345 | Internal event
+2025-03-05 20:05:17 | INTERNAL | Clock: 346 | Internal event
