@@ -107,7 +107,7 @@ python -m coverage report
 
 ```
 
-This command executes all tests in the `tests` directory and provides detailed output on each test’s status.
+These commands will run the test and generate a coverage report. We are standing at 89 percent coverage report currently. 
 
 ## 6. Design Decisions and Considerations
 
